@@ -1,4 +1,4 @@
-Angular Google Maps (AGM) Core - Angular 2+ Google Maps components
+Angular Google Maps (AGM) Core - Angular 12 - 19+ Google Maps components
 =========
 
 ng-agm-core-lib contains solutions for the Google Maps JavaScript Core API.

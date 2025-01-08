@@ -18,7 +18,10 @@
     "google-maps",
     "maps",
     "google",
-    "gmaps"
+    "gmaps",
+    "angular17",
+    "angular-12",
+    "angular-19"
   ],
   "peerDependencies": {
     "@angular/common": ">=12.0.0",
