@@ -1,8 +1,8 @@
 {
-  "name": "@agm/core",
-  "version": "3.0.0-beta.1",
+  "name": "ng-agm-core-lib",
+  "version": "1.0.0",
   "description": "Angular components for Google Maps",
-  "author": "Sebastian Holstein <info@sebastian-holstein.de>",
+  "author": "mehulkothari05@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -28,6 +28,6 @@
     "tslib": "^2.0.0"
   },
   "devDependencies": {
-    "@types/googlemaps": "^3.39.8"
+    "@types/googlemaps": ">=3.39.8"
   }
 }

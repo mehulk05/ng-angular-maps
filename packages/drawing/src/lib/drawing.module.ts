@@ -1,4 +1,4 @@
-import { AgmCoreModule } from '@agm/core';
+import { AgmCoreModule } from 'ng-agm-core-lib';
 import { NgModule } from '@angular/core';
 import { AgmDrawingManager } from './directives/drawing-manager';
 import { AgmDrawingManagerTrigger } from './directives/drawing-manager-trigger';

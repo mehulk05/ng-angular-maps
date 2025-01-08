@@ -4,7 +4,7 @@ draft = false
 title = "Styled Info Windows with Snazzy Info Window & Angular Google Maps"
 +++
 
-Angular Google Maps provides a package that allows you to use [Snazzy Info Window](https://github.com/atmist/snazzy-info-window) together with @agm/core. 'Snazzy Info Window' allows you to create custom info window that are styleable via CSS or Angular inputs.
+Angular Google Maps provides a package that allows you to use [Snazzy Info Window](https://github.com/atmist/snazzy-info-window) together with ng-agm-core-lib. 'Snazzy Info Window' allows you to create custom info window that are styleable via CSS or Angular inputs.
 
 Please note: The @agm/snazzy-info-window package currently supports Angular 4.x only.
 
@@ -12,7 +12,7 @@ Please note: The @agm/snazzy-info-window package currently supports Angular 4.x 
 First make sure that you install the following NPM packages:
 
 ```bash
-npm install @agm/core @agm/snazzy-info-window snazzy-info-window@^1.1.0
+npm install ng-agm-core-lib @agm/snazzy-info-window snazzy-info-window@^1.1.0
 ```
 
 Make sure you have a Google Maps API Key - [you can get one here](https://developers.google.com/maps/documentation/javascript/get-api-key?hl=de).
@@ -27,7 +27,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 
 // add these imports
-import { AgmCoreModule } from '@agm/core';
+import { AgmCoreModule } from 'ng-agm-core-lib';
 import { AgmSnazzyInfoWindowModule } from '@agm/snazzy-info-window';
 
 @NgModule({

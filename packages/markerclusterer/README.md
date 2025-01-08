@@ -30,7 +30,7 @@ yarn add @google/markerclustererplus @agm/markerclusterer
     import { AppComponent } from './app.component';
 
     // add these imports
-    import { AgmCoreModule } from '@agm/core';
+    import { AgmCoreModule } from 'ng-agm-core-lib';
     import { AgmMarkerClustererModule } from '@agm/markerclusterer';
 
     @NgModule({
