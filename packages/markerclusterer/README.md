@@ -62,4 +62,4 @@ yarn add @google/markerclustererplus @agm/markerclusterer
 
 
 [markerclustererplus]: https://github.com/googlemaps/v3-utility-library/tree/master/markerclustererplus
-[agm]: https://angular-maps.com/
+[agm]: https://github.com/mehulk05/ng-angular-maps//

@@ -6,12 +6,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SebastianM/angular-google-maps.git"
+    "url": "https://github.com/mehulk05/ng-angular-maps"
   },
   "bugs": {
-    "url": "https://github.com/SebastianM/angular-google-maps/issues"
+    "url": "https://github.com/mehulk05/ng-angular-maps/issues"
   },
-  "homepage": "https://angular-maps.com",
+  "homepage": "https://github.com/mehulk05/ng-angular-maps/",
   "keywords": [
     "angular",
     "ng",

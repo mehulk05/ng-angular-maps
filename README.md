@@ -1,4 +1,4 @@
-[![AGM - Angular Google Maps](assets/images/angular-google-maps-logo.png)](https://angular-maps.com/)
+[![AGM - Angular Google Maps](assets/images/angular-google-maps-logo.png)](https://github.com/mehulk05/ng-angular-maps//)
 
 # AGM - Angular Google Maps
 
@@ -6,7 +6,7 @@ Angular components for Google Maps. (Previously known as angular2-google-maps)
 
 ---
 
-[Website](https://angular-maps.com/) | [Demo](https://stackblitz.com/edit/angular-google-maps-demo) | [Twitter](https://twitter.com/Sebholstein) | [Chat](https://discord.gg/XAr2ACE) | [API Documentation](https://angular-maps.com/api-docs/)
+[Website](https://github.com/mehulk05/ng-angular-maps//) | [Demo](https://stackblitz.com/edit/angular-google-maps-demo) | [Twitter](https://twitter.com/Sebholstein) | [Chat](https://discord.gg/XAr2ACE) | [API Documentation](https://github.com/mehulk05/ng-angular-maps//api-docs/)
 
 ---
 
@@ -42,4 +42,4 @@ You can install the package with the following command:
 npm install @agm/core
 ```
 
-You should also checkout the [Getting started](https://angular-maps.com/guides/getting-started/) guide for further information.
+You should also checkout the [Getting started](https://github.com/mehulk05/ng-angular-maps//guides/getting-started/) guide for further information.

@@ -5,7 +5,7 @@
   "description": "Angular components for Google Maps",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SebastianM/angular-google-maps.git"
+    "url": "https://github.com/mehulk05/ng-angular-maps"
   },
   "keywords": [
     "angular",
@@ -39,9 +39,9 @@
   "author": "Sebastian Holstein <info@sebastian-holstein.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SebastianM/angular-google-maps/issues"
+    "url": "https://github.com/mehulk05/ng-angular-maps/issues"
   },
-  "homepage": "https://angular-maps.com",
+  "homepage": "https://github.com/mehulk05/ng-angular-maps/",
   "dependencies": {
     "@angular/animations": "^17.3.12",
     "@angular/common": "^17.3.12",

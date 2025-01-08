@@ -50,4 +50,4 @@ export class AppModule { }
 
 
 [drawing-manager]: https://developers.google.com/maps/documentation/javascript/reference/#drawing
-[agm]: https://angular-maps.com/
+[agm]: https://github.com/mehulk05/ng-angular-maps//
