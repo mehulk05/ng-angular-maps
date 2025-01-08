@@ -1,0 +1,33 @@
+{
+  "name": "@agm/core",
+  "version": "3.0.0-beta.1",
+  "description": "Angular components for Google Maps",
+  "author": "Sebastian Holstein <info@sebastian-holstein.de>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SebastianM/angular-google-maps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SebastianM/angular-google-maps/issues"
+  },
+  "homepage": "https://angular-maps.com",
+  "keywords": [
+    "angular",
+    "ng",
+    "google-maps",
+    "maps",
+    "google",
+    "gmaps"
+  ],
+  "peerDependencies": {
+    "@angular/common": ">=12.0.0",
+    "@angular/core": ">=12.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/googlemaps": "^3.39.8"
+  }
+}
